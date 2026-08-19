@@ -1,0 +1,16 @@
+def DisplayFactors(No):
+    #for i in range(1,(No//2)+1):
+    #for i in range(1,(No//2)+1):
+    for i in range(1,int((No//2)+1)):
+        if ( No % i == 0):
+            print(i)
+
+def main():
+    value = 0
+
+    print("Enter number:")
+    value = int(input())
+          
+    DisplayFactors(value)
+    
+main()
