@@ -1,0 +1,6 @@
+--------------------------------------------------
+This is a log file created by marvellous automation
+This is a Directory cleaner Script
+--------------------------------------------------
+Duplicate files scanned : {'071346c32c491646e3241f0d49ea11ee': ['Marvellous\\A (2).txt', 'Marvellous\\A.txt'], 'd41d8cd98f00b204e9800998ecf8427e': ['Marvellous\\B.txt'], '9d77f95b52ec9adb13038082123c368f': ['Marvellous\\Hello.txt', 'Marvellous\\z.txt'], '1c4c8a3e350b48bccf9adb94a5a05e2e': ['Marvellous\\Scheduler1 - Copy.py'], '38b774330dabcce9a8c6196cf3d13521': ['Marvellous\\Scheduler2 - Copy.py'], '7e6db8bfdcd3b500e07d5333812954f9': ['Marvellous\\Scheduler3.py']}
+--------------------------------------------------
